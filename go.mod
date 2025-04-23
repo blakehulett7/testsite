@@ -1,4 +1,4 @@
-module github.com/hugo-toha/hugo-toha.github.io
+module github.com/blakehulett7/testsite
 
 go 1.21
 
