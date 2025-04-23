@@ -72,7 +72,7 @@ params:
   # GitHub repo of your site
   gitRepo: https://github.com/blakehulett7/testsite
   # Default branch of your Git repo
-  gitBranch: master
+  gitBranch: main
 
   # Configure the number of section title visible in the top navbar
   topNavbar:
